@@ -1,45 +1,45 @@
-# [0.55.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.54.10...v0.55.0) (2021-12-30)
-
-
-### Features
-
-* Improve Prettier & Eslint Setup ([#868](https://github.com/EddieHubCommunity/LinkFree/issues/868)) ([a11b476](https://github.com/EddieHubCommunity/LinkFree/commit/a11b476cd556f8ce029f8bed44bf25c8dbca02fb))
-
-
-
-## [0.54.10](https://github.com/EddieHubCommunity/LinkFree/compare/v0.54.9...v0.54.10) (2021-12-30)
+## [0.55.9](https://github.com/EddieHubCommunity/LinkFree/compare/v0.55.8...v0.55.9) (2022-01-03)
 
 
 ### Bug Fixes
 
-* small typo errors in kumarsonoff3's profile ([#875](https://github.com/EddieHubCommunity/LinkFree/issues/875)) ([8275c30](https://github.com/EddieHubCommunity/LinkFree/commit/8275c308ea79466450e7b1581f533e695536b48a))
+* tests for user feature ([#895](https://github.com/EddieHubCommunity/LinkFree/issues/895)) ([83e608f](https://github.com/EddieHubCommunity/LinkFree/commit/83e608f10fd62cd8a63d0dee163ab7f3d2fb77ca))
 
 
 
-## [0.54.9](https://github.com/EddieHubCommunity/LinkFree/compare/v0.54.8...v0.54.9) (2021-12-30)
-
-
-### Bug Fixes
-
-* add Arti Manputra ([#873](https://github.com/EddieHubCommunity/LinkFree/issues/873)) ([ca4fd9f](https://github.com/EddieHubCommunity/LinkFree/commit/ca4fd9fccd78518fb01088a4317392f3559c5651))
-
-
-
-## [0.54.8](https://github.com/EddieHubCommunity/LinkFree/compare/v0.54.7...v0.54.8) (2021-12-30)
+## [0.55.8](https://github.com/EddieHubCommunity/LinkFree/compare/v0.55.7...v0.55.8) (2022-01-02)
 
 
 ### Bug Fixes
 
-* add kumarsonsoff3 ([#870](https://github.com/EddieHubCommunity/LinkFree/issues/870)) ([cc979aa](https://github.com/EddieHubCommunity/LinkFree/commit/cc979aabdd6cb67863211218fdd270daf95989cc))
+* add Chaitanya ([#881](https://github.com/EddieHubCommunity/LinkFree/issues/881)) ([e77df5b](https://github.com/EddieHubCommunity/LinkFree/commit/e77df5b83b3222a09576eaf3d5d36e9bd79efa7d))
 
 
 
-## [0.54.7](https://github.com/EddieHubCommunity/LinkFree/compare/v0.54.6...v0.54.7) (2021-12-27)
+## [0.55.7](https://github.com/EddieHubCommunity/LinkFree/compare/v0.55.6...v0.55.7) (2022-01-02)
 
 
 ### Bug Fixes
 
-* add Aniruddha Inge ([#864](https://github.com/EddieHubCommunity/LinkFree/issues/864)) ([eb9e085](https://github.com/EddieHubCommunity/LinkFree/commit/eb9e085a152acb71594cbb14db566ae43c635267))
+* add kishanrajput23 ([#894](https://github.com/EddieHubCommunity/LinkFree/issues/894)) ([0773c54](https://github.com/EddieHubCommunity/LinkFree/commit/0773c54a90fc9a67a4568456c3f4b15cd7d96623))
+
+
+
+## [0.55.6](https://github.com/EddieHubCommunity/LinkFree/compare/v0.55.5...v0.55.6) (2022-01-02)
+
+
+### Bug Fixes
+
+* add srkds/Nirav ([#877](https://github.com/EddieHubCommunity/LinkFree/issues/877)) ([013ecd2](https://github.com/EddieHubCommunity/LinkFree/commit/013ecd2657be48721ff40aa3c61a78165488a1c9))
+
+
+
+## [0.55.5](https://github.com/EddieHubCommunity/LinkFree/compare/v0.55.4...v0.55.5) (2022-01-01)
+
+
+### Bug Fixes
+
+* add Lokesh Digari ([#887](https://github.com/EddieHubCommunity/LinkFree/issues/887)) ([9faa78a](https://github.com/EddieHubCommunity/LinkFree/commit/9faa78aa47fbf10bcb3dd0e19d26bee8cc0a65db))
 
 
 
